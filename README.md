@@ -1,4 +1,4 @@
-# C-parte-7-Array-e-tipos-genericos
+# C# parte 7: Array e tipos genéricos
 Plataforma: Alura
 - Conheça os arrays
 - Crie uma lista dinâmica
